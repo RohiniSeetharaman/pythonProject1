@@ -1,0 +1,6 @@
+print("Hello","Rohini",145,"Hosur")
+print("Hello","Rohini",145,"Hosur",sep="!!!")
+print("Hello","Rohini",145,"Hosur",sep="aaa")
+print("Hello","Rohini",145,"Hosur",sep="0000",end="\n")
+print("Hello","Rohini",145,"Hosur",sep="    ",end="###")
+print("Hello","Rohini",145,"Hosur")
