@@ -1,0 +1,5 @@
+print("Hi User")
+print(5+67)
+print(88*78)
+print(56-34)
+print(10/2)

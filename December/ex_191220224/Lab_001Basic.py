@@ -1,0 +1,7 @@
+print("hello Rohini")
+print("How are you","Wer are you","How is your family", sep='<>',end='      ')
+print("Which is your native place")
+print(9 + 9,end='   ')
+print(100 - 50)
+print(100 * 100,end='????')
+print(81 / 9)
